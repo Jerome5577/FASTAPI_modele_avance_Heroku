@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+gunicorn
+uvloop
+httptools
+pydantic
+
+regex==2022.10.31
+contractions==0.1.72
+nltk==3.7
+
+
+tensorflow==2.9.1
+keras==2.9.0
